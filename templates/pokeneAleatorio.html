@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <title> PokeNea </title>
+        <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    </head>
+
+    <body>
+        <div class="content">
+            <h1> PokeNea #{{ pokenea.ID }} </h1>
+            <p>{{ pokenea.Frase }}</p>
+            <img src="{{ pokenea.Imagen }}" alt="Imagen PokeNea">
+            <br> <br> <br>
+            <a> CONTENEDOR → </a>
+            <br> <br> <br>
+            <div>
+                <a href="{{ url_for('home') }}" class="button"> Home </a>
+            </div>
+
+        </div>
+    </body>
+</html>

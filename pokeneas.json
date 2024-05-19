@@ -1,0 +1,90 @@
+[
+    {
+        "ID": 1,
+        "Nombre": "Venusaur",
+        "Altura": 2.0,
+        "Habilidad": "Espesura",
+        "Imagen": "#",
+        "Frase": "Ust viera la manga tan linda que habia antes aqui"
+    },
+    {
+        "ID": 2,
+        "Nombre": "Charizard",
+        "Altura": 1.7,
+        "Habilidad": "Mar llamas",
+        "Imagen": "#",
+        "Frase": "Que hpt calor"
+    },
+    {
+        "ID": 3,
+        "Nombre": "Blastoise",
+        "Altura": 1.6,
+        "Habilidad": "Torrente",
+        "Imagen": "#",
+        "Frase": "chorros de agua, chorros de agua"
+    },
+    {
+        "ID": 4,
+        "Nombre": "Weedle",
+        "Altura": 0.3,
+        "Habilidad": "Polvo Escudo",
+        "Imagen": "#",
+        "Frase": "Si sabe"
+    },
+    {
+        "ID": 5,
+        "Nombre": "Rattata",
+        "Altura": 0.3,
+        "Habilidad": "Fuga",
+        "Imagen": "#",
+        "Frase": "Domicilio a nombre de Sebastian"
+    },
+    {
+        "ID": 6,
+        "Nombre": "Pikachu",
+        "Altura": 0.4,
+        "Habilidad": "Electricidad Estatica",
+        "Imagen": "#",
+        "Frase": "Hay chispa entre nosotros"
+    },
+    {
+        "ID": 7,
+        "Nombre": "Snorlax",
+        "Altura": 0.3,
+        "Habilidad": "Arquero de Futbol 7",
+        "Imagen": "#",
+        "Frase": "zzz"
+    },
+    {
+        "ID": 8,
+        "Nombre": "Articuno",
+        "Altura": 1.7,
+        "Habilidad": "Presion",
+        "Imagen": "#",
+        "Frase": "Correr corre cualquiera, jugar al futbol es mas complicado"
+    },
+    {
+        "ID": 9,
+        "Nombre": "Zapdos",
+        "Altura": 1.6,
+        "Habilidad": "Presion",
+        "Imagen": "#",
+        "Frase": "La pelota no se mancha"
+    },
+    {
+        "ID": 10,
+        "Nombre": "Moltres",
+        "Altura": 2.0,
+        "Habilidad": "Presion",
+        "Imagen": "#",
+        "Frase": "La vida no tiene secretos, solo trabajo duro y constante"
+    },
+    {
+        "ID": 11,
+        "Nombre": "Mew",
+        "Altura": 0.4,
+        "Habilidad": "Sincronia",
+        "Imagen": "#",
+        "Frase": "Si se observa a traves de un microscopio, puede distinguirse cuan corto, fino y delicado es el tiempo"
+    }
+]
