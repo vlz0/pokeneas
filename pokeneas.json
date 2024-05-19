@@ -4,7 +4,7 @@
         "Nombre": "Venusaur",
         "Altura": 2.0,
         "Habilidad": "Espesura",
-        "Imagen": "#",
+        "Imagen": "https://storage.googleapis.com/fotopokenea/003.png",
         "Frase": "Ust viera la manga tan linda que habia antes aqui"
     },
     {
@@ -12,7 +12,7 @@
         "Nombre": "Charizard",
         "Altura": 1.7,
         "Habilidad": "Mar llamas",
-        "Imagen": "#",
+        "Imagen": "https://storage.googleapis.com/fotopokenea/006.png",
         "Frase": "Que hpt calor"
     },
     {
@@ -20,7 +20,7 @@
         "Nombre": "Blastoise",
         "Altura": 1.6,
         "Habilidad": "Torrente",
-        "Imagen": "#",
+        "Imagen": "https://storage.googleapis.com/fotopokenea/009.png",
         "Frase": "chorros de agua, chorros de agua"
     },
     {
@@ -28,7 +28,7 @@
         "Nombre": "Weedle",
         "Altura": 0.3,
         "Habilidad": "Polvo Escudo",
-        "Imagen": "#",
+        "Imagen": "https://storage.googleapis.com/fotopokenea/013.png",
         "Frase": "Si sabe"
     },
     {
@@ -36,7 +36,7 @@
         "Nombre": "Rattata",
         "Altura": 0.3,
         "Habilidad": "Fuga",
-        "Imagen": "#",
+        "Imagen": "https://storage.googleapis.com/fotopokenea/019.png",
         "Frase": "Domicilio a nombre de Sebastian"
     },
     {
@@ -44,7 +44,7 @@
         "Nombre": "Pikachu",
         "Altura": 0.4,
         "Habilidad": "Electricidad Estatica",
-        "Imagen": "#",
+        "Imagen": "https://storage.googleapis.com/fotopokenea/025.png",
         "Frase": "Hay chispa entre nosotros"
     },
     {
@@ -52,7 +52,7 @@
         "Nombre": "Snorlax",
         "Altura": 0.3,
         "Habilidad": "Arquero de Futbol 7",
-        "Imagen": "#",
+        "Imagen": "https://storage.googleapis.com/fotopokenea/143.png",
         "Frase": "zzz"
     },
     {
@@ -60,7 +60,7 @@
         "Nombre": "Articuno",
         "Altura": 1.7,
         "Habilidad": "Presion",
-        "Imagen": "#",
+        "Imagen": "https://storage.googleapis.com/fotopokenea/144.png",
         "Frase": "Correr corre cualquiera, jugar al futbol es mas complicado"
     },
     {
@@ -68,7 +68,7 @@
         "Nombre": "Zapdos",
         "Altura": 1.6,
         "Habilidad": "Presion",
-        "Imagen": "#",
+        "Imagen": "https://storage.googleapis.com/fotopokenea/145.png",
         "Frase": "La pelota no se mancha"
     },
     {
@@ -76,7 +76,7 @@
         "Nombre": "Moltres",
         "Altura": 2.0,
         "Habilidad": "Presion",
-        "Imagen": "#",
+        "Imagen": "https://storage.googleapis.com/fotopokenea/146.png",
         "Frase": "La vida no tiene secretos, solo trabajo duro y constante"
     },
     {
@@ -84,7 +84,7 @@
         "Nombre": "Mew",
         "Altura": 0.4,
         "Habilidad": "Sincronia",
-        "Imagen": "#",
+        "Imagen": "https://storage.googleapis.com/fotopokenea/151.png",
         "Frase": "Si se observa a traves de un microscopio, puede distinguirse cuan corto, fino y delicado es el tiempo"
     }
 ]
