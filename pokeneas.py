@@ -1,6 +1,7 @@
 from flask import Flask, render_template, jsonify
 import json
 import random
+import os
 
 app = Flask(__name__)
 
@@ -20,7 +21,8 @@ def pokeneaJSON():
 @app.route('/pokeneAleatorio')
 def pokeneAleatorio():
     pokenea = random.choice(pokeneas)
-    return render_template('pokeneAleatorio.html', pokenea = pokenea)
+    contenedor = os.uname()[1] 
+    return render_template('pokeneAleatorio.html', pokenea = pokenea, contenedor = contenedor)
 
 if __name__ == "__main__":
     app.run(debug=True)
