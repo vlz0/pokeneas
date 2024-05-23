@@ -25,4 +25,4 @@ def pokeneAleatorio():
     return render_template('pokeneAleatorio.html', pokenea = pokenea, contenedor = contenedor)
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host='0.0.0.0', port=80)
